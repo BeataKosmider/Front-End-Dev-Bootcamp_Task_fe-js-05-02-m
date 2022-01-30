@@ -1,9 +1,9 @@
-# Lekcja 4
-## Zadanie 1 - pro
-Stwórz funkcję `createButton` tworzącą element `<button>` o identyfikatorze `"super-button"`, dowolnej nazwie w środku i dodaj go do elementu `<body>`. Funkcja powinna także zwracać tego buttona. Następnie stwórz funkcję `openAlert`, która będzie uruchamiała wbudowaną funkcję `window.alert` z tekstem `"super"`. Funkcja `openAlert` powinna zostać wywołana w momencie kliknięcia na utworzony przycisk `"super-button"`.
+# 5.2
 
-Przykładowy input:
-Brak
+Stwórz plik HTML i zaimportuj do niego trzy skrypty zewnętrzne (mogą być puste). Twoim zadaniem jest użycie script w 3 formach
 
-Przykładowy output:
-Element `<button id="super-button">` wraz z pozostałymi założeniami
+- standardowej (plik o nazwie `index.js` w folderze `js` (`js/index.js`))
+- z atrybutem async (`js/index-async.`js)
+- z atrybutem defer (`js/index-defer.js`)
+
+Oraz dodanie komentarza pod każdym z nich, wyjaśniającym Twoimi słowami, jak wpłyną na ładowanie się strony, w jakiej kolejności będą pobierane.
