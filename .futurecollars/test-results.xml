@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.128">
+  <testsuite name="W folderze js" errors="0" failures="0" skipped="0" timestamp="2023-02-25T22:45:10" time="0.125" tests="3">
+    <testcase classname="W folderze js powinien byc index.js" name="W folderze js powinien byc index.js" time="0.001">
+    </testcase>
+    <testcase classname="W folderze js powinien byc index-async.js" name="W folderze js powinien byc index-async.js" time="0.001">
+    </testcase>
+    <testcase classname="W folderze js powinien byc index-defer.js" name="W folderze js powinien byc index-defer.js" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
