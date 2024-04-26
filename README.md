@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # 5.2
 
 Stwórz plik HTML i zaimportuj do niego trzy skrypty zewnętrzne (mogą być puste). Twoim zadaniem jest użycie script w 3 formach
